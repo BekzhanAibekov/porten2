@@ -1,0 +1,57 @@
+*{
+    font-family: 'Gilroy-Bold';
+}
+header a{
+  line-height: 22px;
+  font-size: 18px;
+  text-decoration: none;
+  color: #828282;
+  text-align: center;
+}
+header .container .row{
+    height: 10vh;
+}
+header a:hover{
+    color: black;
+    font-weight: 700;
+}
+header .row{
+   border-bottom: 1px solid #828282;;
+}
+main .span{
+    transform: rotate(-90deg);
+}
+main .row + .row img{
+    width: 100%;
+}
+.aboutMe{
+    background-color: #f6f6f6;
+    margin: 10vh 0;
+    padding: 10vh 0;
+}
+.skills .container > .row{
+    height: 70vh;
+    align-content: space-between;
+   
+    
+
+}
+.skills{
+    padding-bottom: 20vh;
+}
+.contact{
+    padding-bottom: 10vh;
+}
+
+
+
+
+
+
+
+.portfolio iframe{
+    height: 70vh;
+    margin: 10vh 0;
+}
+
+  
